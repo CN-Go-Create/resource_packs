@@ -1,0 +1,22 @@
+{
+"format_version":1,"header":
+{
+"description":"Beta版",
+"name":"×8 ×12 ×16",
+"uuid":"fbb102a1-0000-338b-8258-e2111526971a",
+"version":[1,0,1],"pack_id":
+"方块层叠0.0.1",
+"packs_version":"0.0.1"
+},
+"modules":
+[
+{
+"description":"",
+"type":"resources",
+"uuid":"44554c3d-0000-3d39-8280-Minecraft160",
+"version":[0,0,1]
+}
+]
+}
+//创建时间2021.12.18
+//修改次数:1
